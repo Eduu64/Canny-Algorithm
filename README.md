@@ -6,11 +6,7 @@ Una implementación completa y modular del **Algoritmo de Detección de Bordes d
 
 <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/e8092615-6f4b-4b07-bcb4-02ddd9ef3b7f" />
 
-## Sobre el Proyecto
-
-El Algoritmo de Canny es uno de los métodos más potentes para extraer información estructural de las imágenes. 
-
-### Estructura Modular
+## Estructura Modular
 
 El código está organizado siguiendo las etapas del algoritmo de Canny:
 
